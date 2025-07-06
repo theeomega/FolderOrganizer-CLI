@@ -28,11 +28,11 @@ File Organizer is a convenient bash script designed to help users declutter and 
 
 1- Clone he respository
 
-    git clone https://github.com/Aw4iskh4n/FileOrganizer/
+    git clone https://github.com/theeomega/FolderOrganizer-CLI
 
 2-  Navigate to FileOrganizer
 
-    cd FileOrganizer
+    cd FolderOrganizer-CLI
 
 3- Give executeable permission
 
